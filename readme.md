@@ -1,2 +1,3 @@
 git test project
-first change
+first change on computer
+second change on Github
